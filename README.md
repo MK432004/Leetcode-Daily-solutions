@@ -6,6 +6,7 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0850-rectangle-area-ii](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0850-rectangle-area-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -19,4 +20,8 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0850-rectangle-area-ii](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0850-rectangle-area-ii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
