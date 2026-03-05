@@ -53,4 +53,8 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0194-transpose-file](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0194-transpose-file/) | Medium |
 <!---LeetCode Topics End-->
