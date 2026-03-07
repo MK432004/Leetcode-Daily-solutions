@@ -7,6 +7,7 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0850-rectangle-area-ii](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0850-rectangle-area-ii/) | Hard |
 ## Segment Tree
@@ -25,6 +26,7 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
