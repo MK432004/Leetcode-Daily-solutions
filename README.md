@@ -27,6 +27,7 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -59,4 +61,8 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0194-transpose-file](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0194-transpose-file/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
