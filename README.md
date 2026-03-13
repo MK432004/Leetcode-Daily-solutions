@@ -11,6 +11,7 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 | [0692-top-k-frequent-words](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0850-rectangle-area-ii](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0850-rectangle-area-ii/) | Hard |
 | [0912-sort-an-array](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,20 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 <!---LeetCode Topics End-->
