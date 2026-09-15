@@ -8,6 +8,7 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0850-rectangle-area-ii](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0850-rectangle-area-ii/) | Hard |
 | [0912-sort-an-array](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -69,10 +70,12 @@ Daily LeetCode solutions in Java | DSA Practice | Interview Preparation
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0912-sort-an-array](https://github.com/MK432004/Leetcode-Daily-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
